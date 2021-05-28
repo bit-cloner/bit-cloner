@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bit-cloner" alt="bit-cloner" /></a> </p>
 
-- 🔭 I’m currently working on [Pulumi, WASM, WASI, Golang, Rustlang, Kubernetes, Nodejs, ebpf, SPIRE, SPIFE](https://github.com/bit-cloner)
+- 🔭 I’m currently working on [Pulumi](https://github.com/bit-cloner/poke), [WASM, WASI, Golang, Rustlang, Kubernetes, Nodejs, ebpf, SPIRE, SPIFE](https://github.com/bit-cloner)
 
 - 🌱 I’m currently learning **Data structures & Algorithms**
 
